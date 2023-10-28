@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.exe
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.deps.json
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.runtimeconfig.json
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.dll
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.pdb
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.dll
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.pdb
+C:\Users\ilkin\source\repos\ExamTask\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.genruntimeconfig.cache
